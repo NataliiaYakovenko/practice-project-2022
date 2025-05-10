@@ -258,7 +258,7 @@ const Home = (props) => {
                   submissions instantly
                 </p>
                 <Link to="/startContest">
-                  <i class="fas fa-light fa-lightbulb">Start a Contest</i>
+                  <i class="fas fa-light fa-lightbulb">Start A Contest</i>
                   
                 </Link>
               </div>
